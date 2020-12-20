@@ -1,0 +1,1 @@
+wal -q -i ~/putanja/do/slike/ovde.jpg; bash -i
